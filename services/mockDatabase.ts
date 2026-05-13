@@ -1,7 +1,7 @@
 import { User, Nasabah, Transaksi, Pinjaman, LogAktivitas, Role, TransactionType } from '../types';
 
 // Link Deployment dari User (HARDCODED)
-const DEFAULT_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxCuxUF8izPweS1NGy4O8zHp5sCop1jl9oBCTLVBHvYK2HpSDBII-wozz48eCc2D_fISQ/exec';
+const DEFAULT_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwTycGe8akJ1HjFbUmnc02m5Od31gB4r1iYk7z9b9TyBy8ef75Kfea4PUmVgQaq-ePTMg/exec';
 
 const DB_KEYS = {
   USERS: 'koperasi_users',
