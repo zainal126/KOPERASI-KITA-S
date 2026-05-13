@@ -1,0 +1,5 @@
+{
+  "name": "Koperasi Digital",
+  "description": "Aplikasi manajemen keuangan koperasi dengan multi-role (Admin, Koordinator, Nasabah) dan simulasi database Spreadsheet.",
+  "requestFramePermissions": []
+}
